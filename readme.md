@@ -17,7 +17,7 @@ gmail:zackzheng.1121@gmail.com
 
 discord:zackzheng_online
 
-web:https://zackzheng1121.github.io//ㄋ
+web:https://zackzheng1121.github.io//
 
 ## 🧩我的貢獻
 <picture>
