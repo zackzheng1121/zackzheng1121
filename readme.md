@@ -27,8 +27,6 @@ web:https://zackzheng1121.github.io//
 </picture>
 
 
-![zackzheng1121's GitHub stats](https://github-readme-stats.vercel.app/api?username=zackzheng1121)
-![zackzheng1121's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zackzheng1121)
-
+![Stats](./profile/stats.svg)
 ---
 [Need English?](./readme_en.md)
