@@ -4,7 +4,7 @@
 ---
 
 ## 🙋‍♂️Who I am?
-I'm a first-year student in the Control Department at Neihu Vocational High School!
+I'm a second-year student in the Control Department at Neihu Vocational High School!
 
 **I also have an account for school, [here](https://github.com/zackzheng1121study)**
 
